@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1747086133969,
+    "nombre": "Oddie",
+    "tipo": "perro",
+    "raza": "Chihuahua",
+    "fechaNacimiento": "2025-03-09",
+    "propietario": "Enrique Hernández",
+    "vacunado": true
+  },
+  {
+    "id": 1747086182257,
+    "nombre": "Yara",
+    "tipo": "gato",
+    "raza": "Neva Masquerade",
+    "fechaNacimiento": "2022-05-08",
+    "propietario": "Gema Domínguez",
+    "vacunado": true
+  },
+  {
+    "id": 1747087121767,
+    "nombre": "Mia",
+    "tipo": "gato",
+    "raza": "Persa",
+    "fechaNacimiento": "2022-02-01",
+    "propietario": "Laura Pérez",
+    "vacunado": true
+  },
+  {
+    "id": 1747089394492,
+    "nombre": "Loki",
+    "tipo": "gato",
+    "raza": "Siberiano",
+    "fechaNacimiento": "2021-02-22",
+    "propietario": "David Domínguez",
+    "vacunado": false
+  }
+]
