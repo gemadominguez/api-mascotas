@@ -38,15 +38,18 @@ mascota.validator.js ← Valida datos de mascotas
 index.js
 README.md
 
-## Autenticación
+## 🔐 Autenticación
 
-1. POST /login
+### Login
 
-````json
+POST /login
+
+```json
 {
   "username": "gema",
   "password": "1234"
 }
+```
 
 2. Esto devuelve un token JWT.
 3. Uso del token en las rutas protegidas: POST, PUT, DELETE.
@@ -64,7 +67,7 @@ Debes enviar el token en los headers.
 | DELETE | `/mascotas/:id` | Eliminar una mascota             |
 
 
-### Ejemplo de creación (`POST /mascotas`)
+## Ejemplo de creación (`POST /mascotas`)
 
 ```json
 {
@@ -76,3 +79,6 @@ Debes enviar el token en los headers.
   "vacunado": true
 }
 ````
+---
+
+Desarrollado por **Gema** 
